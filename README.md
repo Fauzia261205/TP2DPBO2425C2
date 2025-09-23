@@ -21,11 +21,11 @@ kenapa aku simpan 3 atribut itu disini Ketiga atribut ini adalah atribut yang um
 Atribut  : ukuranLayar, RAM, harga
 knpa aku simpan 3 atribut tersebut di class laptop? karna Ketiga atribut ini adalah atribut khusus laptop yang tidak relevan untuk semua produk elektronik lain.
 
-ukuranLayar : hanya relevan pada perangkat seperti laptop, tidak pada kipas angin, kulkas, mesin cuci, dll.
-
-RAM         : khas pada laptop.
-
-harga       : sebenarnya bisa aja diletakkan di kelas Produk karena semua barang memiliki harga. tapi karena fokus saat ini adalah pada laptop, atribut ini aku letakin di kelas Laptop.
+      ukuranLayar : hanya relevan pada perangkat seperti laptop, tidak pada kipas angin, kulkas, mesin cuci, dll.
+      
+      RAM         : khas pada laptop.
+      
+      harga       : sebenarnya bisa aja diletakkan di kelas Produk karena semua barang memiliki harga. tapi karena fokus saat ini adalah pada laptop, atribut ini aku letakin di kelas Laptop.
 
 Dengan desain seperti ini, ketika kita membuat objek Laptop, maka objek tersebut otomatis memiliki seluruh atribut yang diturunkan dari Produk dan Elektronik, sehingga data yang tersimpan lebih lengkap dan sesuai dengan dunia nyata.
 
