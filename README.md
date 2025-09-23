@@ -30,6 +30,13 @@ knpa aku simpan 3 atribut tersebut di class laptop? karna Ketiga atribut ini ada
 Dengan desain seperti ini, ketika kita membuat objek Laptop, maka objek tersebut otomatis memiliki seluruh atribut yang diturunkan dari Produk dan Elektronik, sehingga data yang tersimpan lebih lengkap dan sesuai dengan dunia nyata.
 
 B. PENJELASAN METHOD
+1. Getter & Setter
+   Untuk mengakses (get) dan mengubah (set) nilai atribut dengan cara yang aman.
+2. cetakTabel
+   Method ini menampilkan daftar laptop dalam bentuk tabel
+3. tambahLaptop
+   Method ini menangani input laptop baru dari user. Method ini juga mengecek dulu apakah kodeProduk sudah ada atau belum → kalau sudah ada, data tidak ditambahkan. Kalau belum ada, data baru dimasukkan ke list/array.
+   
 
 C. DIAGRAM
 
