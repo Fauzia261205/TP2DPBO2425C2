@@ -11,11 +11,11 @@ Atribut-atribut ini adalah data fundamental yang pasti ada di semua barang, apap
 Atribut  : merk, warna, garansi
 kenapa aku simpan 3 atribut itu disini Ketiga atribut ini adalah atribut yang umumnya dimiliki produk.
 
-merk     : masih bisa di produk umum, tapi ditaruh disini supaya lebih fokus ke barang elektronik.
-
-warna    : relevan buat elektronik karena pasti setiap barang elektronik itu memiliki variasi warna.
-
-garansi  : atribut yang sangat khas pada produk elektronik, karena hampir semua elektronik diberikan garansi.
+      merk     : masih bisa di produk umum, tapi ditaruh disini supaya lebih fokus ke barang elektronik.
+      
+      warna    : relevan buat elektronik karena pasti setiap barang elektronik itu memiliki variasi warna.
+      
+      garansi  : atribut yang sangat khas pada produk elektronik, karena hampir semua elektronik diberikan garansi.
 
 - Classlaptop (Chill terakhir, turunan dari eletronik)
 Atribut  : ukuranLayar, RAM, harga
