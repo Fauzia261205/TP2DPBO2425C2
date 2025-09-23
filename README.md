@@ -63,3 +63,24 @@ D. PENJELASAN ALUR PROGRAM
 - Program berjalan terus (looping) sampai user memilih keluar (pilihan = 3).
 
 E. DOKUMENTASI
+- CPP
+  
+  ![dokumentasi add cpp](CPP/Dokumentasi/cpp_add.png)
+  ![dokumentasi tampilkan cpp](CPP/Dokumentasi/cpp_tampilkan.png)
+
+- JAVA
+  
+  ![dokumentasi add Java](JAVA/Dokumentasi/java_add.png)
+  ![dokumentasi tampilkan Java](JAVA/Dokumentasi/java_tampilkan.png)
+
+- PYTHON
+
+  ![dokumentasi add python](PYTHON/Dokumentasi/python_add.png)
+  ![dokumentasi tampilkan python](PYTHON/Dokumentasi/python_tampilkan.png)
+
+- PHP
+
+  ![dokumentasi add php](PHP/Dokumentasi/php_addBerhasil.png)
+  ![dokumentasi add php](PHP/Dokumentasi/php_addGagal.png)
+  
+  
