@@ -38,7 +38,7 @@ B. PENJELASAN METHOD
    Method ini menangani input laptop baru dari user. Method ini juga mengecek dulu apakah kodeProduk sudah ada atau belum → kalau sudah ada, data tidak ditambahkan. Kalau belum ada, data baru dimasukkan ke list/array.
    
 C. DIAGRAM
-![diagram]([diagramTP2.png))
+![diagram](diagramTP2.png)
 
 D. PENJELASAN ALUR PROGRAM
 
