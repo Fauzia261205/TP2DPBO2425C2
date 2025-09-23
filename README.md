@@ -31,13 +31,12 @@ Dengan desain seperti ini, ketika kita membuat objek Laptop, maka objek tersebut
 
 B. PENJELASAN METHOD
 1. Getter & Setter
-   Untuk mengakses (get) dan mengubah (set) nilai atribut dengan cara yang aman.
+   Untuk mengakses (get) dan mengubah (set) nilai atribut dengan cara yang aman. Dengan Getter & Setter, perubahan data bisa dikontrol.
 2. cetakTabel
-   Method ini menampilkan daftar laptop dalam bentuk tabel
+   Method ini menampilkan daftar laptop dalam bentuk tabel. Method ini melakukan iterasi terhadap list/array yang berisi objek Laptop. Setiap objek dipanggil Getter-nya untuk menampilkan data lengkap: nama, kode, stok, merk, warna, garansi, ukuran layar, RAM, harga, dan image (khusus PHP).
 3. tambahLaptop
    Method ini menangani input laptop baru dari user. Method ini juga mengecek dulu apakah kodeProduk sudah ada atau belum → kalau sudah ada, data tidak ditambahkan. Kalau belum ada, data baru dimasukkan ke list/array.
    
-
 C. DIAGRAM
 
 D. PENJELASAN ALUR PROGRAM
