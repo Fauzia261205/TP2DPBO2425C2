@@ -38,8 +38,28 @@ B. PENJELASAN METHOD
    Method ini menangani input laptop baru dari user. Method ini juga mengecek dulu apakah kodeProduk sudah ada atau belum → kalau sudah ada, data tidak ditambahkan. Kalau belum ada, data baru dimasukkan ke list/array.
    
 C. DIAGRAM
+
 ![diagram](diagramTP2.png)
 
 D. PENJELASAN ALUR PROGRAM
+1. Inisialisasi Data Awal
+- Program dimulai dengan membuat 5 data laptop awal (Laptop Gaming, Bisnis, Ultrabook, Student, Kreator).
+- Data ini langsung disimpan dalam array/list/vector (tergantung bahasanya).
+
+2. Tampilan Menu Utama
+- Program menampilkan pilihan menu:
+  a. Tambah Laptop
+  b. Lihat Tabel Laptop
+  c. Keluar
+
+3. Proses Pilihan User
+- Jika user memilih 1 (Tambah Laptop): User diminta mengisi atribut laptop baru (nama, kode, stok, merk, warna, garansi, ukuran layar, RAM, harga, image untuk PHP). Lalu program cek apakah kode produk sudah ada. Jika ada → tampil pesan error.Jika tidak ada → data laptop baru ditambahkan.
+
+- Jika user memilih 2 (Lihat Tabel Laptop): Program menampilkan daftar laptop dalam bentuk tabel.
+
+- Jika user memilih 3 (Keluar): Program berhenti dengan pesan “Program selesai.”
+
+4. Looping
+- Program berjalan terus (looping) sampai user memilih keluar (pilihan = 3).
 
 E. DOKUMENTASI
