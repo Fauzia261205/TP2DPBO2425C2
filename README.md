@@ -4,6 +4,7 @@ Saya Fauzia Rahma Nisa mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain da
 **A. PENJELASAN CLASS ATRIBUT DAN ATRIBUT**
 
 - ClassProduk (Parent paling dasar)
+  
 Atribut : nama, kode, stok
 Atribut-atribut seperti nama, kode, dan stok adalah informasi yang selalu dimiliki oleh setiap barang, apa pun jenis atau kategorinya. Dengan menaruh atribut ini di kelas dasar, semua turunan otomatis memiliki identitas dasar produk yang lengkap.
 
@@ -14,6 +15,7 @@ Atribut-atribut seperti nama, kode, dan stok adalah informasi yang selalu dimili
       stok      : Semua barang pasti punya stok untuk mengetahui jumlah ketersediaannya.
 
 - ClassElektronik (Turunan dari produk)
+  
 Atribut  : merk, warna, garansi
 kenapa aku simpan 3 atribut itu disini Ketiga atribut ini adalah atribut yang umumnya dimiliki produk.
 
@@ -24,6 +26,7 @@ kenapa aku simpan 3 atribut itu disini Ketiga atribut ini adalah atribut yang um
       garansi  : atribut yang sangat khas pada produk elektronik, karena hampir semua elektronik diberikan garansi.
 
 - Classlaptop (Chill terakhir, turunan dari eletronik)
+  
 Atribut  : ukuranLayar, RAM, harga
 knpa aku simpan 3 atribut tersebut di class laptop? karna Ketiga atribut ini adalah atribut khusus laptop yang tidak relevan untuk semua produk elektronik lain.
 
