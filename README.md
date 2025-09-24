@@ -6,6 +6,7 @@ Saya Fauzia Rahma Nisa mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain da
 - ClassProduk (Parent paling dasar)
   
 Atribut : nama, kode, stok
+
 Atribut-atribut seperti nama, kode, dan stok adalah informasi yang selalu dimiliki oleh setiap barang, apa pun jenis atau kategorinya. Dengan menaruh atribut ini di kelas dasar, semua turunan otomatis memiliki identitas dasar produk yang lengkap.
 
       nama      : Semua barang pasti punya nama agar bisa dikenali.
@@ -17,6 +18,7 @@ Atribut-atribut seperti nama, kode, dan stok adalah informasi yang selalu dimili
 - ClassElektronik (Turunan dari produk)
   
 Atribut  : merk, warna, garansi
+
 kenapa aku simpan 3 atribut itu disini Ketiga atribut ini adalah atribut yang umumnya dimiliki produk.
 
       merk     : masih bisa di produk umum, tapi ditaruh disini supaya lebih fokus ke barang elektronik.
@@ -28,6 +30,7 @@ kenapa aku simpan 3 atribut itu disini Ketiga atribut ini adalah atribut yang um
 - Classlaptop (Chill terakhir, turunan dari eletronik)
   
 Atribut  : ukuranLayar, RAM, harga
+
 knpa aku simpan 3 atribut tersebut di class laptop? karna Ketiga atribut ini adalah atribut khusus laptop yang tidak relevan untuk semua produk elektronik lain.
 
       ukuranLayar : hanya relevan pada perangkat seperti laptop, tidak pada kipas angin, kulkas, mesin cuci, dll.
@@ -41,9 +44,11 @@ Dengan desain seperti ini, ketika kita membuat objek Laptop, maka objek tersebut
 **B. PENJELASAN METHOD**
 1. Getter & Setter
    Untuk mengakses (get) dan mengubah (set) nilai atribut dengan cara yang aman. Dengan Getter & Setter, perubahan data bisa dikontrol.
-2. cetakTabel
+   
+3. cetakTabel
    Method ini menampilkan daftar laptop dalam bentuk tabel. Method ini melakukan iterasi terhadap list/array yang berisi objek Laptop. Setiap objek dipanggil Getter-nya untuk menampilkan data lengkap: nama, kode, stok, merk, warna, garansi, ukuran layar, RAM, harga, dan image (khusus PHP).
-3. tambahLaptop
+   
+5. tambahLaptop
    Method ini menangani input laptop baru dari user. Method ini juga mengecek dulu apakah kodeProduk sudah ada atau belum → kalau sudah ada, data tidak ditambahkan. Kalau belum ada, data baru dimasukkan ke list/array.
    
 **C. DIAGRAM**
