@@ -1,0 +1,18 @@
+masukan 1:
+1
+L001
+2
+
+masukan 2:
+1
+L006
+Laptop Gaming
+205
+Lenovo
+Hitam
+2 Tahun
+14 inci
+32 GB
+30000000
+2
+3
