@@ -1,7 +1,7 @@
 Saya Fauzia Rahma Nisa mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berdasarkan Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 
-A. PENJELASAN CLASS ATRIBUT DAN ATRIBUT
+**A. PENJELASAN CLASS ATRIBUT DAN ATRIBUT**
 
 - ClassProduk (Parent paling dasar)
 Atribut : nama, kode, stok
@@ -29,7 +29,7 @@ knpa aku simpan 3 atribut tersebut di class laptop? karna Ketiga atribut ini ada
 
 Dengan desain seperti ini, ketika kita membuat objek Laptop, maka objek tersebut otomatis memiliki seluruh atribut yang diturunkan dari Produk dan Elektronik, sehingga data yang tersimpan lebih lengkap dan sesuai dengan dunia nyata.
 
-B. PENJELASAN METHOD
+**B. PENJELASAN METHOD**
 1. Getter & Setter
    Untuk mengakses (get) dan mengubah (set) nilai atribut dengan cara yang aman. Dengan Getter & Setter, perubahan data bisa dikontrol.
 2. cetakTabel
@@ -37,7 +37,7 @@ B. PENJELASAN METHOD
 3. tambahLaptop
    Method ini menangani input laptop baru dari user. Method ini juga mengecek dulu apakah kodeProduk sudah ada atau belum → kalau sudah ada, data tidak ditambahkan. Kalau belum ada, data baru dimasukkan ke list/array.
    
-C. DIAGRAM
+**C. DIAGRAM**
 
 ![diagram](diagramTP2.png)
 
@@ -62,28 +62,37 @@ D. PENJELASAN ALUR PROGRAM
 4. Looping
 - Program berjalan terus (looping) sampai user memilih keluar (pilihan = 3).
 
-E. DOKUMENTASI
+**E. DOKUMENTASI**
 - CPP
   
-  Tambah data pada CPP
+  Tambah data laptop pada CPP
   ![dokumentasi add cpp](CPP/Dokumentasi/cpp_add.png)
   
-  Tampilkan data pada CPP
+  Tampilkan data Laptop pada CPP
   ![dokumentasi tampilkan cpp](CPP/Dokumentasi/cpp_tampilkan.png)
 
 - JAVA
-  
+
+  Tambah data Laptop pada Java
   ![dokumentasi add Java](JAVA/Dokumentasi/java_add.png)
+
+  Tampilkan data Laptop pada Java
   ![dokumentasi tampilkan Java](JAVA/Dokumentasi/java_tampilkan.png)
 
 - PYTHON
 
+  Tambah data Laptop pada Python
   ![dokumentasi add python](PYTHON/Dokumentasi/python_add.png)
+
+  Tampilkan data Laptop pada Python
   ![dokumentasi tampilkan python](PYTHON/Dokumentasi/python_tampilkan.png)
 
 - PHP
 
+  Tambah data laptop yang berhasil
   ![dokumentasi add php](PHP/Dokumentasi/php_addBerhasil.png)
+
+  Tampilkan data Laptop yang gagal karena kodenya udah ada
   ![dokumentasi add php](PHP/Dokumentasi/php_addGagal.png)
   
   
