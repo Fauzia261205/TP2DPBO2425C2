@@ -64,8 +64,9 @@ D. PENJELASAN ALUR PROGRAM
 
 E. DOKUMENTASI
 - CPP
-  
+  **Tambah data pada CPP**
   ![dokumentasi add cpp](CPP/Dokumentasi/cpp_add.png)
+  **Tampilkan data pada CPP**
   ![dokumentasi tampilkan cpp](CPP/Dokumentasi/cpp_tampilkan.png)
 
 - JAVA
