@@ -1,0 +1,18 @@
+masukan 1:
+1
+L001
+2
+
+masukan 2:
+1
+L007
+Laptop Kreator
+150
+Thinkpad
+Abu Tua 
+1 Tahun
+13 inci
+32 GB
+10000000
+2
+3
