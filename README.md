@@ -5,7 +5,12 @@ Saya Fauzia Rahma Nisa mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain da
 
 - ClassProduk (Parent paling dasar)
 Atribut : nama, kode, stok
-Atribut-atribut ini adalah data fundamental yang pasti ada di semua barang, apapun jenis dan kategorinya. Dengan menaruh atribut ini di kelas dasar, semua turunan otomatis memiliki identitas dasar produk yang lengkap.
+Atribut-atribut seperti nama, kode, dan stok adalah informasi yang selalu dimiliki oleh setiap barang, apa pun jenis atau kategorinya. Dengan menaruh atribut ini di kelas dasar, semua turunan otomatis memiliki identitas dasar produk yang lengkap.
+      nama      : Semua barang pasti punya nama agar bisa dikenali.
+  
+      kode      : Semua barang pasti punya kode unik supaya tidak tertukar.
+  
+      stok      : Semua barang pasti punya stok untuk mengetahui jumlah ketersediaannya.
 
 - ClassElektronik (Turunan dari produk)
 Atribut  : merk, warna, garansi
