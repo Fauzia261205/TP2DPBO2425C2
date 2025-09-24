@@ -1,0 +1,17 @@
+masukan 1:
+1
+L004
+2
+
+masukan 2:
+L008
+Laptop
+70
+Hp
+Navy
+2 Tahun
+13 inci
+16 GB
+45000000
+2
+3
