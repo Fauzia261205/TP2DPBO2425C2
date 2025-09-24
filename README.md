@@ -44,8 +44,8 @@ C. DIAGRAM
 D. PENJELASAN ALUR PROGRAM
 1. Inisialisasi Data Awal
 - Program dimulai dengan membuat 5 data laptop awal (Laptop Gaming, Bisnis, Ultrabook, Student, Kreator).
-- Data ini langsung disimpan dalam array/list/vector (tergantung bahasanya).
-
+- Data ini langsung disimpan dalam vektor.
+  
 2. Tampilan Menu Utama
 - Program menampilkan pilihan menu:
   a. Tambah Laptop
